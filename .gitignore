@@ -1,4 +1,4 @@
 # Ignore DrRacket's backup files (on Windows):
 *.bak
 # Ignore DrRacket's autosave files (on Windows):
-*.[0-9]*
+*.[0-9]+
