@@ -1,5 +1,7 @@
 #lang racket
+
 (provide my-reverse)
 
 (define (my-reverse s)
-  (error "not implemented"))
+  (list->string (reverse (string->list s)))
+  )
